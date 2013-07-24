@@ -5,7 +5,7 @@ VIM shortcuts to start, stop and restart rack-based ruby app.
 Some assumption first
   - You are working on a rack-based ruby app
   - Your vim is compiled with ruby-interp enabled
-  - Your linux has xdotool and wmctrl installed
+  - Your linux has [xdotool] (http://www.semicomplete.com/projects/xdotool/xdotool.xhtml) and wmctrl installed
 
 This plugin is well tested on ubuntu 10.04 and 12.04.
 
